@@ -25,9 +25,3 @@
 hs_err_pid*
 
 *.iml
-.idea/.gitignore
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
-src/
-/src/Figura.java
